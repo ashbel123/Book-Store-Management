@@ -4,6 +4,7 @@ As It is mentioned as simple website. It has no login/signup, this website focus
    - add the books in the store.
    - Delete books in the store that are no longer published and available (or) out of stock.
    - Edit the information if it is wrong.
+   - Search For the book by name of the book or author.
    - Had an option to select books to a separate page called MyBooks. (may be like a list)
      (A facility given by Admin who wants to read specific books or he can keep the list for checking them with the publisher. about the selling and all).
 
